@@ -82,7 +82,3 @@ if __name__ == "__main__":
 #    myLayer.getLayerMetData(lyr)
     del ds      # 程序运行最后注销dataset
     createShp(lyr)
-    
-   
-    
-    
